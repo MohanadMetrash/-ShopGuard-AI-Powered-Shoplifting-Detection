@@ -7,7 +7,6 @@
 - [Model Architecture](#-model-architecture)
 - [Getting Started](#-getting-started)
   - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
 - [Usage](#-usage)
 - [Results](#-results)
 
@@ -48,17 +47,6 @@ You will need Python 3.x and the following libraries:
 -   scikit-learn
 -   Matplotlib
 -   NumPy
-
-### Installation
-
-1.  Clone the repo
-    ```sh
-    git clone https://github.com/your_username/ShopGuard.git
-    ```
-2.  Install Python packages
-    ```sh
-    pip install tensorflow opencv-python scikit-learn matplotlib numpy
-    ```
 
 ---
 
